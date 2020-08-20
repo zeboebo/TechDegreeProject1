@@ -1,2 +1,2 @@
-# TechDegreeProject1
+# TechDegree Project 1
  RandomQuoteGenerator
